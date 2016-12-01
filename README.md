@@ -2,5 +2,16 @@ This is the first version of the README
 =======================================
 
 Hey! I'm a readme. I have no useful information.
+
+### Contributors to this project:
 * Justin Blake
 * Bob Ziroll
+* Tyson Williams
+* Meamya Christie
+* Stetson Peck
+* Meheret Girma
+* Lance Wright
+* Jacob Percival
+* Eric Jones
+* Zach Kessler
+* Steven Moss
