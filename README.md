@@ -11,7 +11,7 @@ Hey! I'm a readme. I have no useful information.
 * Stetson Peck
 * Meheret Girma
 * Lance Wright
-* Jacob Percival
+* Jacob is cooler
 * Eric Jones
 * Zach Kessler
 * Steven Moss
