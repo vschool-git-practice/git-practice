@@ -6,7 +6,7 @@ Hey! I'm a readme. I have no useful information.
 ### Contributors to this project:
 * Justin Blake
 * Bob Ziroll
-* Tyson Williams
+* Ty-ty Williams
 * Meamya Christie
 * Stetson Peck
 * Meheret Girma
